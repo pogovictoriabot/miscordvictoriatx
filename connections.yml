@@ -1,0 +1,10 @@
+__comment: >-
+  This is your connections.yml file. More info at
+  https://github.com/miscord/miscord/wiki/Connections.yml
+aa:
+  - type: discord
+    id: '559942352291233792'
+    name: text
+  - type: messenger
+    id: '2237243716334837'
+    name: 2237243716334837
